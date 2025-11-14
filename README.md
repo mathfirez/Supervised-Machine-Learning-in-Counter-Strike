@@ -4,13 +4,12 @@
 </p>
 
 ## Scope
+NOTE: Code not published yet. Full work can be read at: mathfirez.github.io/
 This project aims the implementation of supervised learning algorithms in order to predict results of Counter-Strike: Global Offensive rounds.
-(Work in progress)
 
 ## Components
 - `batchParser.py` Python script for parsing all demos within a directory into .json files.
 
-- (Work in progress)
 
 ## References
 `AWPY Demo Parser by pxenopoulos` - https://github.com/pnxenopoulos/awpy
